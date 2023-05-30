@@ -1,6 +1,8 @@
 # Drivewise
 Front End project based on community Figma files. 
 
-Credit :  [Webio UI](https://www.figma.com/@matejvujtek)
+Title: Cápsula do tempo • Trilha Ignite
+
+Credit :  [Rocketseat](https://www.figma.com/@rocketseat)
 
 Front End code : [MH KAANICHE](https://github.com/MHKAANICHE)
